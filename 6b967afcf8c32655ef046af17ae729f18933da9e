@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Dmitry Tantsur <divius.inside@gmail.com>
+Workflow+1: Dmitry Tantsur <divius.inside@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 25 May 2015 16:01:48 +0000
+Reviewed-on: https://review.openstack.org/183169
+Project: openstack/coreos-image-builder
+Branch: refs/heads/master
